@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RogerD_1175Final2/1.0.0": {
+        "runtime": {
+          "RogerD_1175Final2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RogerD_1175Final2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+CustomerName,NumberOfAdultTickets, NumberOfChildTickets, TotalCost
+,0,0,0.00
+,0,0,0.00
+Diana,8,9,561.83
+Horacio,8,9,561.83
+Milagros,8,9,561.83
+Roger,5,0,249.95
+Grand Total of TotalCost: $1,935.44

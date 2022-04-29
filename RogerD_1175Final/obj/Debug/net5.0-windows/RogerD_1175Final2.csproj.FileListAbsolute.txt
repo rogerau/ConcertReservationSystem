@@ -1,0 +1,36 @@
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.exe
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.deps.json
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.runtimeconfig.json
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.runtimeconfig.dev.json
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\bin\Debug\net5.0-windows\ref\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.pdb
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.csproj.AssemblyReference.cache
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.Form1.resources
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.csproj.GenerateResource.cache
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.AssemblyInfoInputs.cache
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.AssemblyInfo.cs
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.csproj.CoreCompileInputs.cache
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\ref\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.pdb
+C:\Users\roger\Dropbox\My PC (LAPTOP-Q2H2FHS9)\Downloads\RogerD_1175Final\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.genruntimeconfig.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.exe
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.deps.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.runtimeconfig.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.runtimeconfig.dev.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\bin\Debug\net5.0-windows\ref\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\bin\Debug\net5.0-windows\RogerD_1175Final2.pdb
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.csproj.AssemblyReference.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.Form1.resources
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.csproj.GenerateResource.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.AssemblyInfoInputs.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.AssemblyInfo.cs
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.csproj.CoreCompileInputs.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\ref\RogerD_1175Final2.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.pdb
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175Final2\RogerD_1175Final\obj\Debug\net5.0-windows\RogerD_1175Final2.genruntimeconfig.cache
